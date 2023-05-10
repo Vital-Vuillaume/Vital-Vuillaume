@@ -30,7 +30,7 @@ Je suis ouvert aux contributions et aux collaborations sur des projets intéress
 
 Vous pouvez me contacter par le biais des liens suivants :
 
-- Email : [vitalvuillaume@proton.me]
-- [Mon Linkedin]https://www.linkedin.com/in/vital-vuillaume-bb7167273/
+- Email : vitalvuillaume@proton.me
+- [Mon Linkedin] https://www.linkedin.com/in/vital-vuillaume-bb7167273/
 
 Merci de votre visite !

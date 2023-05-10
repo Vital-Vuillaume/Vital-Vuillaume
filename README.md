@@ -1,36 +1,36 @@
-# Bienvenue sur mon profil GitHub !
+# Welcome to my GitHub profile!
 
-## À propos de moi
+## About Me
 
-Je suis un passionné de développement web, spécialisé dans HTML, CSS et JavaScript. Mon objectif est de fournir des expériences utilisateur exceptionnelles en combinant mes compétences techniques avec ma créativité.
+I am a passionate web developer, specializing in HTML, CSS, and JavaScript. My goal is to provide exceptional user experiences by combining my technical skills with creativity.
 
-## Compétences
+## Skills
 
-- HTML5 : Création de la structure de base des pages web.
-- CSS3 : Conception et mise en page esthétique des sites web.
-- JavaScript : Ajout de fonctionnalités interactives et de dynamisme aux pages web.
+- HTML5: Creating the basic structure of web pages.
+- CSS3: Designing and styling websites to make them visually appealing.
+- JavaScript: Adding interactive and dynamic features to web pages.
 
-## Projets
+## Projects
 
-Voici quelques-uns des projets auxquels j'ai travaillé récemment :
+Here are some of the projects I have worked on recently:
 
--[un site qui parle de gaming](https://rmbi.ch/vital/)
+- [A gaming website](https://example.com/gaming-website)
 
-N'hésitez pas à explorer mes projets et à me contacter pour plus d'informations.
+Feel free to explore my projects and contact me for more information.
 
 ## Contribution
 
-Je suis ouvert aux contributions et aux collaborations sur des projets intéressants. Si vous avez des idées ou des suggestions, n'hésitez pas à me contacter.
+I am open to contributions and collaborations on interesting projects. If you have any ideas or suggestions, feel free to reach out to me.
 
-## organisation
+## Organization
 
-[ASTERJDM](https://github.com/asterjdm) est une organisation passionnée par la création d'un réseau social innovant qui vise à connecter les individus du monde entier. Notre mission est de fournir une plateforme conviviale et sécurisée. 
+[ASTERJDM](https://github.com/asterjdm) is an organization passionate about creating an innovative social network that aims to connect individuals worldwide. Our mission is to provide a user-friendly and secure platform.
 
 ## Contact
 
-Vous pouvez me contacter par le biais des liens suivants :
+You can reach me through the following links:
 
-- Email : vitalvuillaume@proton.me
-- [Mon Linkedin](https://www.linkedin.com/in/vital-vuillaume-bb7167273/)
+- Email: vitalvuillaume@proton.me
+- [My LinkedIn](https://www.linkedin.com/in/vital-vuillaume-bb7167273/)
 
-Merci de votre visite !
+Thank you for visiting!

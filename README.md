@@ -14,7 +14,7 @@ Je suis un passionné de développement web, spécialisé dans HTML, CSS et Java
 
 Voici quelques-uns des projets auxquels j'ai travaillé récemment :
 
-1. **[un site qui parle de gaming](https://rmbi.ch/vital/)
+-[un site qui parle de gaming](https://rmbi.ch/vital/)
 
 N'hésitez pas à explorer mes projets et à me contacter pour plus d'informations.
 
@@ -22,10 +22,15 @@ N'hésitez pas à explorer mes projets et à me contacter pour plus d'informatio
 
 Je suis ouvert aux contributions et aux collaborations sur des projets intéressants. Si vous avez des idées ou des suggestions, n'hésitez pas à me contacter.
 
+## organisation
+
+[ASTERJDM](https://github.com/asterjdm) est une organisation passionnée par la création d'un réseau social innovant qui vise à connecter les individus du monde entier. Notre mission est de fournir une plateforme conviviale et sécurisée. 
+
 ## Contact
 
 Vous pouvez me contacter par le biais des liens suivants :
 
-- Email : [votre@email.com]
-- LinkedIn : [Mon Linkedin]https://www.linkedin.com/in/vital-vuillaume-bb7167273/
+- Email : [vitalvuillaume@proton.me]
+- [Mon Linkedin]https://www.linkedin.com/in/vital-vuillaume-bb7167273/
+
 Merci de votre visite !

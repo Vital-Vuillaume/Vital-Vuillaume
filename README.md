@@ -24,8 +24,9 @@ I am open to contributions and collaborations on interesting projects. If you ha
 
 ## Organization
 
--[asterjdm](https://github.com/asterjdm) Is an organization passionate about creating an innovative social network that aims to connect individuals worldwide. Our mission is to provide a user-friendly and secure platform.
--[feur-company](https://github.com/Feur-company) We explore the most wacky and wacky aspects of software development. Our goal is to push the boundaries of creativity by combining humor, irony and programming.
+- [asterjdm](https://github.com/asterjdm) Is an organization passionate about creating an innovative social network that aims to connect individuals worldwide. Our mission is to provide a user-friendly and secure platform.
+
+- [feur-company](https://github.com/Feur-company) We explore the most wacky and wacky aspects of software development. Our goal is to push the boundaries of creativity by combining humor, irony and programming.
 
 ## Contact
 

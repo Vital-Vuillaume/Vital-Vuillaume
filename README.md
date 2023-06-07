@@ -28,6 +28,9 @@ I am open to contributions and collaborations on interesting projects. If you ha
 
 - [Feur-company](https://github.com/Feur-company) We explore the most wacky and wacky aspects of software development. Our goal is to push the boundaries of creativity by combining humor, irony and programming.
 
+## Stats
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
+
 ## Contact
 
 You can reach me through the following links:

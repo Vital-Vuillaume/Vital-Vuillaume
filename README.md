@@ -32,11 +32,4 @@ I am open to contributions and collaborations on interesting projects. If you ha
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
  [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
 
-## Contact
-
-You can reach me through the following links:
-
-- Email: vitalvuillaume@proton.me
-- [My LinkedIn](https://www.linkedin.com/in/vital-vuillaume-bb7167273/)
-
-Thank you for visiting!
+## Thank you for visiting!

@@ -14,7 +14,8 @@ I am a passionate web developer, specializing in HTML, CSS, and JavaScript. My g
 
 Here are some of the projects I have worked on recently:
 
-- [A gaming website](https://rmbi.ch/vital)
+- [My-first-html-site](https://rmbi.ch/vital)
+- [Time-Converter](https://rmbi.ch/vital/time-converter)
 
 Feel free to explore my projects and contact me for more information.
 

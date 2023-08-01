@@ -10,9 +10,9 @@ I am a passionate web developer, specializing in HTML, CSS, and JavaScript. My g
 - CSS3: Designing and styling websites to make them visually appealing.
 - JavaScript: Adding interactive and dynamic features to web pages.
 
-## Projects
+## Site
 
-Here are some of the projects I have worked on recently:
+Here are some of the site I have worked on recently:
 
 - [My Website](https://rmbi.ch/vital/)
 - [Time-Converter](https://rmbi.ch/vital/time-converter/)
@@ -20,7 +20,7 @@ Here are some of the projects I have worked on recently:
 - [Text-Meter](https://rmbi.ch/vital/text-meter/)
 - [My First Site Html](https://rmbi.ch/vital/mfsh/)
 
-Feel free to explore my projects and contact me for more information.
+Feel free to explore my site and contact me for more information.
 
 ## Contribution
 

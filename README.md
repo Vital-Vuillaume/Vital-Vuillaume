@@ -16,7 +16,7 @@ Here are some of the site I have worked on recently:
 
 - [My Website](https://rmbi.ch/vital/)
 - [Time-Converter](https://rmbi.ch/vital/time-converter/)
-- [Time-Uppercase](https://rmbi.ch/vital/uppercase-converter/)
+- [Uppercase-Converter](https://rmbi.ch/vital/uppercase-converter/)
 - [Text-Meter](https://rmbi.ch/vital/text-meter/)
 - [My First Site Html](https://rmbi.ch/vital/mfsh/)
 

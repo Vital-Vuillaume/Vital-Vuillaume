@@ -14,8 +14,11 @@ I am a passionate web developer, specializing in HTML, CSS, and JavaScript. My g
 
 Here are some of the projects I have worked on recently:
 
-- [My-first-html-site](https://rmbi.ch/vital/mfsh)
-- [Time-Converter](https://rmbi.ch/vital/time-converter)
+- [My Website](https://rmbi.ch/vital/)
+- [Time-Converter](https://rmbi.ch/vital/time-converter/)
+- [Time-Uppercase](https://rmbi.ch/vital/uppercase-converter/)
+- [Text-Meter](https://rmbi.ch/vital/text-meter/)
+- [My First Site Html](https://rmbi.ch/vital/mfsh/)
 
 Feel free to explore my projects and contact me for more information.
 

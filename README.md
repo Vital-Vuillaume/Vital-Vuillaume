@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&size=40&duration=4000&pause=9000&color=F7F7F7&width=490&height=65&lines=My+name+is+Vital+Vuillaume;I+have+300IQ;I'm+a+genius;Visit+my+website;Why+you+still+read%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&size=40&pause=1000&color=F7F7F7&width=490&height=65&lines=My+name+is+Vital+Vuillaume;I+have+300IQ;I'm+a+genius;Visit+my+website;Why+you+still+read%3F)](https://git.io/typing-svg)
 
 ## About Me
 

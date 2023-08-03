@@ -16,7 +16,7 @@
  - [**Text-Meter**](https://rmbi.ch/vital/text-meter/)
  - [**My First Site Html**](https://rmbi.ch/vital/mfsh/)
 
-## Organization
+## Organizations
 
  - ### [Asterjdm](https://github.com/asterjdm)
    

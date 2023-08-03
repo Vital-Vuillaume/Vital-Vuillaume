@@ -4,6 +4,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://github.com/Vital-Vuillaume)
 
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://github.com/Vital-Vuillaume)
+
 ## Site
 
 Here are some of the site:

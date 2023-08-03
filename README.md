@@ -4,7 +4,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://github.com/Vital-Vuillaume)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux)](https://github.com/Vital-Vuillaume)
+##Used technologies
+
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode)](https://github.com/Vital-Vuillaume)
 
 ## Site
 

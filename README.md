@@ -23,5 +23,3 @@ Here are some of the site:
 ## Stats
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
  [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
-
-## Thank you for visiting!

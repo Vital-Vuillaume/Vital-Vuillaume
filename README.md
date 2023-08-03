@@ -2,30 +2,33 @@
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://github.com/Vital-Vuillaume)
 
 ## Used technologies
 
-![My Skills](https://skillicons.dev/icons?i=linux,vscode,git)
+ [![My Skills](https://skillicons.dev/icons?i=linux,vscode,git)](https://github.com/Vital-Vuillaume)
 
 ## Site
 
-- [**My Website**](https://rmbi.ch/vital/)
-- [**Time-Converter**](https://rmbi.ch/vital/time-converter/)
-- [**Uppercase-Converter**](https://rmbi.ch/vital/uppercase-converter/)
-- [**Text-Meter**](https://rmbi.ch/vital/text-meter/)
-- [**My First Site Html**](https://rmbi.ch/vital/mfsh/)
+ - [**My Website**](https://rmbi.ch/vital/)
+ - [**Time-Converter**](https://rmbi.ch/vital/time-converter/)
+ - [**Uppercase-Converter**](https://rmbi.ch/vital/uppercase-converter/)
+ - [**Text-Meter**](https://rmbi.ch/vital/text-meter/)
+ - [**My First Site Html**](https://rmbi.ch/vital/mfsh/)
 
 ## Organization
 
-- ### [Asterjdm](https://github.com/asterjdm)
-  **Is an organization passionate about creating an innovative social network that aims to connect individuals worldwide.**
-
-- ### [Feur-company](https://github.com/Feur-company)
-  **We explore the most wacky and wacky aspects of software development.**
+ - ### [Asterjdm](https://github.com/asterjdm)
+   
+   **Is an organization passionate about creating an innovative social network that aims to connect individuals worldwide.**
+ 
+ - ### [Feur-company](https://github.com/Feur-company)
+   
+   **We explore the most wacky and wacky aspects of software development.**
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vital-Vuillaume&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vital-Vuillaume&theme=dracula)
 
- ![](https://visitcount.itsvg.in/api?id=Vital-Vuillaume&icon=6&color=0)
+ [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
+ [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
+ 
+ [![](https://visitcount.itsvg.in/api?id=Vital-Vuillaume&icon=6&color=0)](https://github.com/Vital-Vuillaume)

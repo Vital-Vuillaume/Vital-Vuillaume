@@ -1,28 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=700&size=60&pause=1000&color=F7F7F7&width=900&height=150&lines=My+name+is+Vital;I+have+300IQ;I'm+a+genius;Visit+my+website;Why+you+still+read%3F)](https://rmbi.ch/vital/)
 
-## About Me
-
-I am a passionate web developer, specializing in HTML, CSS, and JavaScript. My goal is to provide exceptional user experiences by combining my technical skills with creativity.
-
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://github.com/Vital-Vuillaume)
 
 ## Site
 
-Here are some of the site I have worked on recently:
+Here are some of the site:
 
 - [My Website](https://rmbi.ch/vital/)
 - [Time-Converter](https://rmbi.ch/vital/time-converter/)
 - [Uppercase-Converter](https://rmbi.ch/vital/uppercase-converter/)
 - [Text-Meter](https://rmbi.ch/vital/text-meter/)
 - [My First Site Html](https://rmbi.ch/vital/mfsh/)
-
-Feel free to explore my site and contact me for more information.
-
-## Contribution
-
-I am open to contributions and collaborations on interesting projects. If you have any ideas or suggestions, feel free to reach out to me.
 
 ## Organization
 

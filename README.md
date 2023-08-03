@@ -2,11 +2,11 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://github.com/Vital-Vuillaume)
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
 ## Used technologies
 
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,git)](https://github.com/Vital-Vuillaume)
+![My Skills](https://skillicons.dev/icons?i=linux,vscode,git)
 
 ## Site
 
@@ -25,5 +25,7 @@
   **We explore the most wacky and wacky aspects of software development.**
 
 ## Stats
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
- [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vital-Vuillaume&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vital-Vuillaume&theme=dracula)
+
+ ![](https://visitcount.itsvg.in/api?id=Vital-Vuillaume&icon=6&color=0)

@@ -6,9 +6,7 @@ I am a passionate web developer, specializing in HTML, CSS, and JavaScript. My g
 
 ## Skills
 
-- HTML5: Creating the basic structure of web pages.
-- CSS3: Designing and styling websites to make them visually appealing.
-- JavaScript: Adding interactive and dynamic features to web pages.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://github.com/Vital-Vuillaume)
 
 ## Site
 

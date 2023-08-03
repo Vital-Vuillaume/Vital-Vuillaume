@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://github.com/Vital-Vuillaume)
 
-##Used technologies
+## Used technologies
 
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode)](https://github.com/Vital-Vuillaume)
 

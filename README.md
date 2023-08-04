@@ -29,6 +29,6 @@
 ## Stats
 
  [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
- [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
+ 
  
  [![](https://visitcount.itsvg.in/api?id=Vital-Vuillaume&icon=6&color=0)](https://github.com/Vital-Vuillaume)

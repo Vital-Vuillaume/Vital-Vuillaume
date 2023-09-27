@@ -8,11 +8,6 @@
  - [**Text-Meter**](https://rmbi.ch/vital/text-meter/)
  - [**My First Site Html**](https://rmbi.ch/vital/mfsh/)
 
-## Stats
-
- [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
- [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
-
 ## Skills
 
  [![](https://skillicons.dev/icons?i=html,css,js,md)](https://github.com/Vital-Vuillaume)
@@ -24,6 +19,11 @@
 ## social network
 
  [![](https://skillicons.dev/icons?i=github,linkedin)](https://github.com/Vital-Vuillaume)
+
+## Stats
+
+ [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
+ [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)
 
 ## Organizations
 

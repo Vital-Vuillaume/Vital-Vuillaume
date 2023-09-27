@@ -6,7 +6,7 @@
 
 ## Used technologies
 
- [![My Skills](https://skillicons.dev/icons?i=linux,vscode,git)](https://github.com/Vital-Vuillaume)
+ [![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github)](https://github.com/Vital-Vuillaume)
 
 ## Site
 

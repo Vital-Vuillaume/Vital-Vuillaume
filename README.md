@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=900&size=60&pause=1000&color=F7F7F7&width=900&height=90&lines=My+name+is+Vital;I+have+300IQ;I'm+a+genius;Visit+my+website;Why+you+still+read%3F)](https://rmbi.ch/vital/)
 
-## Site
+## Sites
 
  - [**My Website**](https://rmbi.ch/vital/)
  - [**Time-Converter**](https://rmbi.ch/vital/time-converter/)
@@ -16,7 +16,7 @@
 
  [![](https://skillicons.dev/icons?i=linux,vscode,git)](https://github.com/Vital-Vuillaume)
 
-## social network
+## Social networks
 
  [![](https://skillicons.dev/icons?i=github,linkedin)](https://github.com/Vital-Vuillaume)
 

@@ -35,7 +35,7 @@
    
    **We explore the most wacky and wacky aspects of software development.**
 
- - ### [*Feur-company*](https://github.com/Pixel-Paradox)
+ - ### [*Pixel-Paradox*](https://github.com/Pixel-Paradox)
    
    **A video game company focused on innovation and creating immersive and engaging gaming experiences for players worldwide.**
  

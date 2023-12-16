@@ -10,7 +10,7 @@
 
 ## Skills
 
- [![](https://skillicons.dev/icons?i=html,css,js,md)](https://github.com/Vital-Vuillaume)
+ [![](https://skillicons.dev/icons?i=html,css,js,md,arduino,py)](https://github.com/Vital-Vuillaume)
 
 ## Used technologies
 

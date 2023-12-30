@@ -6,7 +6,6 @@
  - [**Time-Converter**](https://rmbi.ch/vital/time-converter/)
  - [**Uppercase-Converter**](https://rmbi.ch/vital/uppercase-converter/)
  - [**Text-Meter**](https://rmbi.ch/vital/text-meter/)
- - [**My First Site Html**](https://rmbi.ch/vital/mfsh/)
 
 ## Skills
 

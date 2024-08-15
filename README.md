@@ -10,11 +10,11 @@
 
 ## Skills
 
- [![](https://skillicons.dev/icons?i=html,css,js,md,arduino,py)](https://github.com/Vital-Vuillaume)
+ [![](https://skillicons.dev/icons?i=html,css,js,md,arduino,py,bash,mysql)](https://github.com/Vital-Vuillaume)
 
 ## Used technologies
 
- [![](https://skillicons.dev/icons?i=linux,vscode,git)](https://github.com/Vital-Vuillaume)
+ [![](https://skillicons.dev/icons?i=linux,vscode,git,ubuntu)](https://github.com/Vital-Vuillaume)
 
 ## Social networks
 

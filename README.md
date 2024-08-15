@@ -15,11 +15,6 @@
 
  [![](https://skillicons.dev/icons?i=linux,vscode,git,ubuntu)](https://github.com/Vital-Vuillaume)
 
-## Social networks
-
-
- [![](https://skillicons.dev/icons?i=github,linkedin)](https://github.com/Vital-Vuillaume)
-
 ## Stats
 
  [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vital-Vuillaume&theme=dracula)](https://github.com/Vital-Vuillaume)

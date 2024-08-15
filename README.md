@@ -1,5 +1,7 @@
 [![](https://readme-typing-svg.demolab.com?font=ubuntu&weight=900&size=60&pause=1000&color=F7F7F7&width=900&height=90&lines=My+name+is+Vital;I+have+300IQ;I'm+a+genius;Visit+my+website;Why+are+you+still+reading%3F)](https://rmbi.ch/vital/)
 
+---
+
 ## Sites
 
  - [**My Website**](https://rmbi.ch/vital/)
@@ -33,5 +35,7 @@
  - ### [*Pixel-Paradox*](https://github.com/Pixel-Paradox)
    
    **Pixel-Paradox is the alliance of passion and creativity, dedicated to the creation of unique and immersive pixelated video games.**
+
+---
  
  [![](https://visitcount.itsvg.in/api?id=Vital-Vuillaume&icon=6&color=0)](https://github.com/Vital-Vuillaume)

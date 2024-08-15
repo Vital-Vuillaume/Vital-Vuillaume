@@ -36,6 +36,11 @@
    
    **Pixel-Paradox is the alliance of passion and creativity, dedicated to the creation of unique and immersive pixelated video games.**
 
+## Donate
+
+ - ### [*Donation*](rmbi.ch/vital/donation)
+    
+    **I'm thrilled that you're considering supporting my projects with a Bitcoin donation. Every contribution is valuable and helps me to pursue my mission successfully.**
 ---
  
  [![](https://visitcount.itsvg.in/api?id=Vital-Vuillaume&icon=6&color=0)](https://github.com/Vital-Vuillaume)

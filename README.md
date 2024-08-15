@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=900&size=60&pause=1000&color=F7F7F7&width=900&height=90&lines=My+name+is+Vital;I+have+300IQ;I'm+a+genius;Visit+my+website;Why+are+you+still+reading%3F)](https://rmbi.ch/vital/)
+[![](https://readme-typing-svg.demolab.com?font=ubuntu&weight=900&size=60&pause=1000&color=F7F7F7&width=900&height=90&lines=My+name+is+Vital;I+have+300IQ;I'm+a+genius;Visit+my+website;Why+are+you+still+reading%3F)](https://rmbi.ch/vital/)
 
 ## Sites
 

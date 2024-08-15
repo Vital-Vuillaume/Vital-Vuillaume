@@ -3,10 +3,9 @@
 ## Sites
 
  - [**My Website**](https://rmbi.ch/vital/)
- - [**Time-Converter**](https://rmbi.ch/vital/time-converter/)
- - [**Uppercase-Converter**](https://rmbi.ch/vital/uppercase-converter/)
- - [**Text-Meter**](https://rmbi.ch/vital/text-meter/)
+ - [**Text-Reverse**](https://rmbi.ch/vital/text-reverse/)
  - [**Pixel-Adventure-Desktop**](https://rmbi.ch/vital/pad/)
+ - [**Text-Meter**](https://rmbi.ch/vital/text-meter/)
 
 ## Skills
 
@@ -35,5 +34,9 @@
  - ### [*Feur-company*](https://github.com/Feur-company)
    
    **We explore the most wacky and wacky aspects of software development.**
+
+ - ### [*Pixel-Paradox*](https://github.com/Pixel-Paradox)
+   
+   **Pixel-Paradox is the alliance of passion and creativity, dedicated to the creation of unique and immersive pixelated video games.**
  
  [![](https://visitcount.itsvg.in/api?id=Vital-Vuillaume&icon=6&color=0)](https://github.com/Vital-Vuillaume)

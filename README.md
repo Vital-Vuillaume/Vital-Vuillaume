@@ -38,7 +38,7 @@
 
 ## Donate
 
- - ### [*Donation*](rmbi.ch/vital/donation)
+ - ### [*Donation*](https://rmbi.ch/vital/donation/)
     
     **I'm thrilled that you're considering supporting my projects with a Bitcoin donation. Every contribution is valuable and helps me to pursue my mission successfully.**
 ---

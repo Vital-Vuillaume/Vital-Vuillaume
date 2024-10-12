@@ -7,6 +7,7 @@
  - [**My Website**](https://rmbi.ch/vital/)
  - [**Text-Reverse**](https://rmbi.ch/vital/text-reverse/)
  - [**Pixel-Adventure-Desktop**](https://rmbi.ch/vital/pad/)
+ - [**Msg-Hash**](https://rmbi.ch/vital/msg-hash)
  - [**Text-Meter**](https://rmbi.ch/vital/text-meter/)
 
 ## Skills
